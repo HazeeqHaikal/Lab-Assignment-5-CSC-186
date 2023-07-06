@@ -1,0 +1,5 @@
+MALE STUDENT LIST FOR CS110
+Matrix Number       Name                          Course Code         Part                Gender              
+2004152689          AHMÅD DAUH BIN JAMIL          cs110               4                   M                   
+2004256589          ALI BIN IZHAR                 cs110               4                   M                   
+Number of male students for CS110: 2

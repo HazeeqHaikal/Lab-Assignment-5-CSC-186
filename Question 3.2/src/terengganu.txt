@@ -1,0 +1,6 @@
+Car Type        Car Plate Number Car Price      
+========        ================ =========      
+Kelisa          TAA3375         35000          
+Waja            TAP5609         65000          
+MyVi            TAN789          55000          
+Total Price: RM 155,000.00

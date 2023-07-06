@@ -1,0 +1,6 @@
+MALE STUDENT LIST FOR CS111
+Matrix Number       Name                          Course Code         Part                Gender              
+2004589748          BAKRI SAID                    cs111               4                   M                   
+2003125985          BAK A/K 80NG                  cs111               5                   M                   
+2004885885          FIRDAUS BIN AMIN SHAH         cs111               3                   M                   
+Number of male students for CS111: 3
